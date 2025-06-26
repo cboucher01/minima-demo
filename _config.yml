@@ -15,7 +15,7 @@ minima:
   show_excerpts: true
 
 # Build settings
-baseurl: /minima
+baseurl: /minima-demo
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
